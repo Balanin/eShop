@@ -16,7 +16,7 @@
 - python manage.py createsuperuser - create superuser
 - python manage.py runserver - start app
 
-  # For next starts:
+# For next starts:
 - python manage.py runserver - start app
   
 # Used technologies:
